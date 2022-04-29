@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Paso 7 (Juliana Buitrago)
 Use the left arrow to go back!
